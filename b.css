@@ -1,0 +1,80 @@
+.titleSubtitleImage {
+  color: black;
+  background-color: #F3C4C4;
+  text-align: center;
+  
+  padding-bottom:20px;
+  border: 0px solid;
+    border-radius: 0px;
+  border-color:blue;
+}
+#Subsubtitle {
+ 
+  margin-top:8px;
+  padding-bottom:20px;
+  padding-left:20px;
+  padding-top:20px;
+  color: #866161;
+  background-color: #F3C4C4;
+  border: 0px solid;
+    border-radius: 0px;
+  border-color:blue;
+  text-align:left;
+}
+.Paragraph {
+  text-align: justify;
+  
+  padding-right:20px;
+  padding-left:20px;
+  border: 0px solid;
+    border-radius: 0px;
+  border-color:blue;
+  background-color: #F3C4C4;
+}
+h3 {
+  text-align: center;
+}
+img {
+    max-width: 90%;
+    max-height: 90%;
+  padding-bottom:8px;
+}
+.Bullets{
+  text-align: left;
+  background-color: #F3C4C4;
+  
+  border: 0px solid;
+    border-radius: 0px;
+  border-color:blue;
+}
+.quoteNameLink{
+  text-align:center;
+  font-size:20px;
+  background-color: #F3C4C4;
+  padding-bottom:30px;
+  padding-top:10px;
+}
+.quote{
+  font-size:30px;
+  font-family:papyrus;
+}
+.name{
+  font-family:Candara;
+}
+.PictureAndQuote{
+  background-color:#8A7272;
+  padding-top:20px;
+  padding-bottom:10px;
+  border-radius:20px;
+  margin-left:30%;
+  margin-right:30%;
+  font-family:Candara
+}
+.all{
+  background-color: #F3C4C4;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.allAll{
+  background-color: #866161;
+}
